@@ -29,7 +29,7 @@ pinned: false
 
 Try the interactive Gradio demo on HuggingFace Spaces — watch a trained PPO agent plan treatment in real time, or play manually to compete against it:
 
-**[https://huggingface.co/spaces/VaishnaviAgrawal/RadiotherapyPlanningEnv](https://huggingface.co/spaces/VaishnaviAgrawal/RadiotherapyPlanningEnv)**
+**[https://huggingface.co/spaces/VaishnaviAgrawal/Radiotherapy_Planning_Environment](https://huggingface.co/spaces/VaishnaviAgrawal/Radiotherapy_Planning_Environment)**
 
 ---
 
