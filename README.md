@@ -2,15 +2,6 @@
 
 > A Gymnasium-compatible reinforcement learning environment where an AI agent learns to plan cancer radiotherapy treatment — placing radiation beams to maximize tumor dose while protecting critical organs.
 
-Built for the **Meta × Scaler PyTorch OpenEnv Hackathon**.
-
-[![Python](https://img.shields.io/badge/Python-3.10%2B-blue)](https://www.python.org/)
-[![Gymnasium](https://img.shields.io/badge/Gymnasium-Compatible-green)](https://gymnasium.farama.org/)
-[![License](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
-[![HuggingFace Space](https://img.shields.io/badge/🤗%20Demo-Live%20on%20HF%20Spaces-orange)](https://huggingface.co/spaces/VaishnaviAgrawal/RadiotherapyPlanningEnv)
-
----
-
 ## Clinical Motivation
 
 ~14 million cancer patients per year require radiotherapy. A radiation oncologist must decide:
