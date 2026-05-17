@@ -258,7 +258,7 @@ uvicorn server.app:app --host 0.0.0.0 --port 8000
 ## Repository Structure
 
 ```
-radio_therapy_planning_for_tumor_treatment/
+Radiotherapy-Planning-Environment/
 ├── inference.py               # LLM inference script
 ├── openenv.yaml               # OpenEnv spec metadata
 ├── Dockerfile                 # Container build (port 7860)

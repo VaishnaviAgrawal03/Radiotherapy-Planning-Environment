@@ -11,7 +11,7 @@ setup(
     description="OpenEnv RL environment for radiotherapy treatment planning",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/VaishnaviAgrawal03/radio_therapy_planning_for_tumor_treatment",
+    url="https://github.com/VaishnaviAgrawal03/Radiotherapy-Planning-Environment",
     packages=find_packages(),
     python_requires=">=3.9",
     install_requires=[

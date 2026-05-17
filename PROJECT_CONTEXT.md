@@ -21,7 +21,7 @@ An AI agent learns to place and optimize radiation beams to maximize tumor dose 
 ## 2. Hackathon Context & Judging
 
 ### What We Submit
-- **GitHub repo:** https://github.com/VaishnaviAgrawal03/radio_therapy_planning_for_tumor_treatment
+- **GitHub repo:** https://github.com/VaishnaviAgrawal03/Radiotherapy-Planning-Environment
 - **HuggingFace Space:** https://huggingface.co/spaces/VaishnaviAgrawal/RadiotherapyPlanningEnv
 - **Docker image:** ghcr.io/vaishnaviagrawal03/radiotherapy-env:latest
 
@@ -660,8 +660,8 @@ session = {
 
 ### GitHub
 
-- **URL:** https://github.com/VaishnaviAgrawal03/radio_therapy_planning_for_tumor_treatment
-- **Git remote:** `origin` → `git@github2:VaishnaviAgrawal03/...` (uses second SSH key)
+- **URL:** https://github.com/VaishnaviAgrawal03/Radiotherapy-Planning-Environment
+- **Git remote:** `origin` → `git@github.com:VaishnaviAgrawal03/Radiotherapy-Planning-Environment.git`
 - **SSH config:** `~/.ssh/config` maps `github2` host to `id_ed25519_github2` key
 
 ### OpenEnv Validation
