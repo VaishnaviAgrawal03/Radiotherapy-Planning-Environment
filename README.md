@@ -1,3 +1,13 @@
+---
+title: Radiotherapy Planning Environment
+emoji: "☢️"
+colorFrom: blue
+colorTo: green
+sdk: docker
+app_port: 7860
+pinned: false
+---
+
 # RadiotherapyPlanningEnv — RL Environment for Cancer Treatment Planning
 
 > A Gymnasium-compatible reinforcement learning environment where an AI agent learns to plan cancer radiotherapy treatment — placing radiation beams to maximize tumor dose while protecting critical organs.
