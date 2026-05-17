@@ -16,5 +16,8 @@ uvicorn>=0.23.0
 # LLM inference (OpenAI-compatible client)
 openai>=1.0.0
 
+# Gradio demo
+gradio>=4.0.0
+
 # Utilities
 pyyaml>=6.0
